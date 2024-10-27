@@ -1,0 +1,7 @@
+/node_modules
+
+/signald/node_modules
+
+/backend/node_modules
+
+/frontend/traffic-signal-client/node_modules

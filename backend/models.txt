@@ -1,0 +1,5 @@
+sequelize model:generate --name User --attributes email:string,password:string
+
+sequelize model:generate --name Locations --attributes name:string
+
+sequelize model:generate --name signals --attributes id:integer,signal:string
